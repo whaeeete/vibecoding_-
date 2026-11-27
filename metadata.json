@@ -1,0 +1,8 @@
+{
+  "name": "아뜰리에 멘토",
+  "description": "미술 수업에서 학생들에게 작품 아이디어를 제안하고 대화를 통해 창작 구상을 이끌어주는 AI 미술 멘토 스튜디오",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
